@@ -1,0 +1,8 @@
+{
+  "body": "{\"content\":\"Another cool content\",\"attachment\":\"event.jpg\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
