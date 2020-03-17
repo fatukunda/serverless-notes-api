@@ -22,7 +22,6 @@ export const main = async (event, context) => {
       return failure({ status: false, error: "Item not found." });
     };
   } catch (error) {
-      console.log(error);
     return failure({ status: false });
   };
 };
